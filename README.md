@@ -16,3 +16,5 @@ The apple can be eaten, but each time you eat an apple, a block appears which yo
 
 This is a more level based idea of snake. The goal of this game is not simply just to survive, but beat the level.
 This features teleporters, apples, blocks, keys, and openings.
+
+This is not as polished as the "main.py" script but good enough to share.
